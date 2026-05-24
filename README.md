@@ -2,4 +2,5 @@ Universidad Complutense de Madrid (UCM) / Observatorio Astronómico Nacional (OA
 
 Author: Mario Pérez Racionero. Supervisor: Alba Vidal García.
 
-Python codes developed for the report on curricular internships at the OAN: "Analysis of gravitationally amplified galaxies with data from ALMA". The codes responsible for modeling the gravitational lens and source are based on J. Spilker's visilens (https://github.com/jspilker/visilens/tree/master), however, these implement some modifications that improve the continuum adjustment.
+Python codes developed for the report on curricular internships at the OAN: "Analysis of gravitationally amplified galaxies with data from ALMA". The codes responsible for modeling the gravitational lens and source are based on J. Spilker's visilens (https://github.com/jspilker/visilens/tree/master), however, these implement some modifications that improve the continuum adjustment. 
+The model_results shows the figures and values ​​returned by the gravitational lens model for an example system.
