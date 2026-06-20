@@ -61,7 +61,7 @@ fig.savefig(filename,dpi=300)
 pl.close(fig)
 ######################################################################################
 #Outlier analysis configuration
-burnin = 2500 #last steps
+burnin = 2500 #discard first steps
 tail = chains_reshaped[:,burnin:,:] #steady state only.
 #Graph each parameter against the number of steps in different figures.
 for i, var in enumerate(allcols):
